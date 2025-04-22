@@ -1,6 +1,6 @@
 ---
 title: "Exploring Research Methods and Professional Practice: A Personal Reflection and Application"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Topics covered in module <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
