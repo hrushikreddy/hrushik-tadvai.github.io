@@ -2,7 +2,7 @@
 title: "Scientific Investigation & Ethics"
 excerpt: "Observation, hypothesis formation, empirical testing, and ethical concerns."
 collection: portfolio
-exclude_from_portfolio: true
+published: false
 ---
 
 
