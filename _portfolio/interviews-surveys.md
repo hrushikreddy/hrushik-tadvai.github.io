@@ -4,6 +4,8 @@ excerpt: "The module's emphasis on qualitative tools like interviews and surveys
 layout: default
 ---
 
-The module's emphasis on qualitative tools like interviews and surveys was the main driver of my ideas for planning and improving the development of my research.
+The module's emphasis on qualitative tools like interviews and surveys was the main driver of my ideas for planning and improving the development of my research. Suppose the project changes to a bigger operation. In that case, setting up a talk with users like farmers or agronomists through structured interviews might help make the model more usable and relevant.
 
-[← Back to Overview](index.md)
+Besides, the module emphasized the importance of ethical data collection, particularly with user-generated content. A thorough understanding of the concept of informed consent and data handling has put me in a perfect position to devise software instruments for survey design responsibly in the future when needed.
+
+[← Back to Overview](portfolio-4.md)
