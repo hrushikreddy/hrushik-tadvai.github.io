@@ -10,4 +10,4 @@ While considering mixed-method approaches, I ultimately decided that the study's
 
 In fact, when I worked with plant image datasets, I experienced that the identical model might perform differently based on certain light conditions, environmental circumstances, or geographical places. Research like observational studies or group discussions with horticultural specialists could help obtain such conclusions; however, these methods were not directly used in this project.
 
-[← Back to Overview]({{ site.baseurl }}/_portfolio/portfolio-4)
+[← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
