@@ -4,12 +4,9 @@ excerpt: "Although my primary focus was quantitative, understanding how to analy
 layout: default
 ---
 
-Although my primary focus was quantitative, understanding how to analyze qualitative data added depth to my research capabilities. It made me more aware of the narrative and contextual elements often accompanying purely numerical data.
+Although my primary focus has been on quantitative methods, exploring qualitative analysis techniques added depth to my understanding of research. Learning how to interpret interviews and narrative data made me more aware of the human and contextual dimensions that are often missing from purely numerical work. This perspective has helped me appreciate the value of combining different approaches to capture a more complete picture of a problem.
 
-Visualization techniques were especially helpful in making data more accessible. In the proposal, I included performance visualizations—such as confusion matrices and heatmaps—to provide a user-friendly summary of the model's outputs, making the technical findings more digestible for non-technical stakeholders. Research Writing and Presentation
+Visualization techniques also proved to be a powerful tool for making data more accessible. For example, I incorporated confusion matrices and heatmaps into my proposal to provide a clear, visual summary of the model’s performance. These tools not only assisted me in interpreting complex outputs but also made my findings more understandable for stakeholders without a technical background. This experience reinforced the importance of presenting data in ways that are both accurate and communicable, bridging the gap between technical analysis and practical application.
 
-This course changed the way I communicated in my academic facilities. Writing the research proposal required clarity in writing and effective visual and oral presentation. The tutor feedback that I received was the key to improving the structure, coherence, and conciseness.
-
-A personal mode of growth was articulating involuted statistical and technical concepts in a generally understandable language. This skill was particularly crucial during the final proposal presentation when I needed to deliver both the technical depth of my research and its practical implications. In the upcoming presentations, I will try to be more engaging by utilizing example-based storytelling, which I expect will positively impact the audience.
 
 [← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
