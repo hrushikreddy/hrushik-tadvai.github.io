@@ -12,4 +12,4 @@ This course changed the way I communicated in my academic facilities. Writing th
 
 A personal mode of growth was articulating involuted statistical and technical concepts in a generally understandable language. This skill was particularly crucial during the final proposal presentation when I needed to deliver both the technical depth of my research and its practical implications. In the upcoming presentations, I will try to be more engaging by utilizing example-based storytelling, which I expect will positively impact the audience.
 
-[← Back to Overview](portfolio-4.md)
+[← Back to Overview]({{ site.baseurl }}/_portfolio/portfolio-4)
