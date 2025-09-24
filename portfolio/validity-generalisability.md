@@ -8,4 +8,4 @@ Grasping the ideas of validity, reliability, and generalizability was a determin
 
 While fine-tuning my research proposal, I specifically utilized cross-validation and other techniques to increase model generalizability. In addition, I intended to carry out one more type of testing across a variety of plants and environmental conditions to certify the model's robustness.
 
-[← Back to Overview]({{ site.baseurl }}/_portfolio/portfolio-4)
+[← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
