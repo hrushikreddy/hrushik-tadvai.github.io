@@ -12,4 +12,4 @@ The last unit was about using project management principles in research. At this
 
 A six-month research plan, including milestones and contingency planning, was essential for the proposal's feasibility. Applying these principles made the project easier and more aligned with industry-standard practices.
 
-[← Back to Overview]({{ site.baseurl }}/_portfolio/portfolio-4)
+[← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
