@@ -4,9 +4,10 @@ excerpt: "ePortfolio Overview"
 collection: portfolio
 ---
 
-# Exploring Research Methods and Professional Practice
 
-When I began the MSc in Data Science at the University of Essex, I expected to spend most of my time buried in algorithms, code, and datasets. What surprised me most about the Exploring Research Methods and Professional Practice module was that it shifted my attention away from code and forced me to think carefully about how I approach research and why my methods matter. This module has been less about implementing techniques and more about developing the intellectual maturity and professional responsibility that underpin rigorous data-driven inquiry. In the following sections, I reflect on the key aspects of the module and how each has influenced both my academic practice and my view of professional work as a data scientist.
+When I began the MSc in Data Science at the University of Essex, I expected my time to be dominated by algorithms, coding, and working with large datasets. What surprised me most about the Exploring Research Methods and Professional Practice module was how it shifted my focus away from purely technical tasks and encouraged me to think more deeply about the purpose and design of research. Rather than being solely about implementing techniques, the module emphasized developing intellectual maturity, critical thinking, and professional responsibility—qualities that are essential for rigorous, meaningful data-driven inquiry.
+
+This module challenged me to consider not just what I do as a researcher, but why I do it and how my methods impact the credibility and applicability of my work. It has encouraged me to engage more thoughtfully with research design, data ethics, and the communication of findings, helping me see the broader context in which data science operates. In the following sections, I reflect on the key aspects of the module and how each has shaped both my academic practice and my understanding of professional responsibilities as a data scientist, from methodological rigour to ethical stewardship and effective communication.
 
  Click a section below to explore each of the sub-topics taught:
 
