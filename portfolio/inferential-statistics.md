@@ -10,4 +10,4 @@ By the end of this unit, I could comfortably analyze and conclude from data sets
 
 You can find some of my lab statistical work from units 8 and 9 in the link below: https://github.com/hrushikreddy/excel
 
-[← Back to Overview]({{ site.baseurl }}/_portfolio/portfolio-4)
+[← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
