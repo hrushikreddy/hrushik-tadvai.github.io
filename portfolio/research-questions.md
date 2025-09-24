@@ -8,4 +8,4 @@ One of the module's most challenging but rewarding aspects was narrowing down a 
 
 This phase was particularly illuminating, as it taught me that the literature review is more than just a summary—it is a tool for critical analysis. I had to distinguish between high-impact and peripheral research, assess methodologies, and understand trends in computer vision and agritech. More importantly, I learned to refine my research scope by eliminating unnecessary variables and focusing on a specific, testable objective.
 
-[← Back to Overview]({{ site.baseurl }}/_portfolio/portfolio-4)
+[← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
