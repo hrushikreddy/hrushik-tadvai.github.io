@@ -66,8 +66,4 @@ Overall, this structured combination of technical growth, ethical practice, and 
 
 ---
 
-### Links (to be added in GitHub)
-
-- **Professional Skills Matrix:** `[Link]()`  
-- **SWOT Analysis:** `[Link]()`  
-- **Development Action Plan:** `[Link]()`  
+[← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
