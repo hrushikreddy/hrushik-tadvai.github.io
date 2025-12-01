@@ -17,8 +17,8 @@ This module challenged me to consider not just what I do as a researcher, but wh
 - [unit 5: Interviews & Survey Methods]({{ site.baseurl }}/portfolio/interviews-surveys)
 - [Questionnaire Design]({{ site.baseurl }}/portfolio/questionnaire-design)
 - [Validity & Generalisability]({{ site.baseurl }}/portfolio/validity-generalisability)
-- [unit 7: Inferential Statistics]({{ site.baseurl }}/portfolio/inferential-statistics)
-- [Analysing Qualitative Data]({{ site.baseurl }}/portfolio/qualitative-data)
+- [unit 6&7: Inferential Statistics]({{ site.baseurl }}/portfolio/inferential-statistics)
+- [unit 8: Analysing Qualitative Data]({{ site.baseurl }}/portfolio/qualitative-data)
 - [unit 11: Professional Development & e-Portfolio]({{ site.baseurl }}/portfolio/professional-development)
  
 - [Professional Skills Matrix, SWOT Analysis and Action Plan Reflection]({{ site.baseurl }}/portfolio/reflection)
