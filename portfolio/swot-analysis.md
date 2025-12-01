@@ -37,3 +37,5 @@ layout: default
 
 The SWOT analysis clarifies my development priorities, aligning them with future academic and industry expectations. It informs the accompanying development action plan.
 
+[← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
+
