@@ -11,18 +11,19 @@ This module challenged me to consider not just what I do as a researcher, but wh
 
  Click a section below to explore each of the sub-topics taught:
 
-- [Scientific Investigation & Ethics]({{ site.baseurl }}/portfolio/scientific-investigation)
-- [Research Questions & Literature Review]({{ site.baseurl }}/portfolio/research-questions)
-- [Research Methods]({{ site.baseurl }}/portfolio/research-methods)
-- [Interviews & Survey Methods]({{ site.baseurl }}/portfolio/interviews-surveys)
+- [unit 1: Scientific Investigation & Ethics]({{ site.baseurl }}/portfolio/scientific-investigation)
+- [unit 2; Research Questions & Literature Review]({{ site.baseurl }}/portfolio/research-questions)
+- [unit 3: Research Methods]({{ site.baseurl }}/portfolio/research-methods)
+- [unit 5: Interviews & Survey Methods]({{ site.baseurl }}/portfolio/interviews-surveys)
 - [Questionnaire Design]({{ site.baseurl }}/portfolio/questionnaire-design)
 - [Validity & Generalisability]({{ site.baseurl }}/portfolio/validity-generalisability)
-- [Inferential Statistics]({{ site.baseurl }}/portfolio/inferential-statistics)
+- [unit 7: Inferential Statistics]({{ site.baseurl }}/portfolio/inferential-statistics)
 - [Analysing Qualitative Data]({{ site.baseurl }}/portfolio/qualitative-data)
-- [Professional Development & e-Portfolio]({{ site.baseurl }}/portfolio/professional-development)
-- 
+- [unit 11: Professional Development & e-Portfolio]({{ site.baseurl }}/portfolio/professional-development)
+ 
 - [Professional Skills Matrix, SWOT Analysis and Action Plan Reflection]({{ site.baseurl }}/portfolio/reflection)
 - [action plan]({{ site.baseurl }}/portfolio/action-plan)
 - [skills-matrix]({{ site.baseurl }}/portfolio/skills-matrix)
 - [SWOT-analysis]({{ site.baseurl }}/portfolio/swot-analysis)
+
 - [Conclusion]({{ site.baseurl }}/portfolio/conclusion)
