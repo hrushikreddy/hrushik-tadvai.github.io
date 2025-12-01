@@ -16,11 +16,13 @@ This module challenged me to consider not just what I do as a researcher, but wh
 - [unit 3: Research Methods]({{ site.baseurl }}/portfolio/research-methods)
 - [unit 4: Case Studies, Focus Groups and Observations]({{ site.baseurl }}/portfolio/case-studies)
 - [unit 5: Interviews & Survey Methods]({{ site.baseurl }}/portfolio/interviews-surveys)
-- [Questionnaire Design]({{ site.baseurl }}/portfolio/questionnaire-design)
-- [Validity & Generalisability]({{ site.baseurl }}/portfolio/validity-generalisability)
 - [unit 6&7: Inferential Statistics]({{ site.baseurl }}/portfolio/inferential-statistics)
 - [unit 8: Analysing Qualitative Data]({{ site.baseurl }}/portfolio/qualitative-data)
+- [unit 9: Validity, Generalisability and Reliability]({{ site.baseurl }}/portfolio/validity)
 - [unit 10&11: Professional Development & e-Portfolio]({{ site.baseurl }}/portfolio/professional-development)
+
+- [Questionnaire Design]({{ site.baseurl }}/portfolio/questionnaire-design)
+- [Validity & Generalisability]({{ site.baseurl }}/portfolio/validity-generalisability)
  
 - [Professional Skills Matrix, SWOT Analysis and Action Plan Reflection]({{ site.baseurl }}/portfolio/reflection)
 - [action plan]({{ site.baseurl }}/portfolio/action-plan)
