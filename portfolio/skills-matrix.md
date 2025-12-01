@@ -26,3 +26,5 @@ This matrix provides an overview of my current technical, analytical, and profes
 The skills matrix highlights strong technical capabilities and emerging strengths in research methodology and professional practice. It also identifies advanced analytics and communication as key areas for continued development.
 
 ---
+
+[← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
