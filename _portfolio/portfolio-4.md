@@ -20,4 +20,9 @@ This module challenged me to consider not just what I do as a researcher, but wh
 - [Inferential Statistics]({{ site.baseurl }}/portfolio/inferential-statistics)
 - [Analysing Qualitative Data]({{ site.baseurl }}/portfolio/qualitative-data)
 - [Professional Development & e-Portfolio]({{ site.baseurl }}/portfolio/professional-development)
+- 
+- [Professional Skills Matrix, SWOT Analysis and Action Plan Reflection]({{ site.baseurl }}/portfolio/reflection)
+- [action plan]({{ site.baseurl }}/portfolio/action-plan)
+- [skills-matrix]({{ site.baseurl }}/portfolio/skills-matrix)
+- [SWOT-analysis]({{ site.baseurl }}/portfolio/swot-analysis)
 - [Conclusion]({{ site.baseurl }}/portfolio/conclusion)
