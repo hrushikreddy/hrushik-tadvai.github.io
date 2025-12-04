@@ -32,3 +32,10 @@ You can view all portfolio Artefacts in the following link: [Artefacts Folder](h
 - [SWOT-analysis]({{ site.baseurl }}/portfolio/swot-analysis)
 
 - [Conclusion]({{ site.baseurl }}/portfolio/conclusion)
+
+## Artefacts & Reflections  
+
+**Reflection on Learning and Development Through the Module**  
+A comprehensive summary reflecting on my learning outcomes and growth during the module, covering acquired skills, experiences, and insights into my academic and professional development.  
+
+[→ View the Reflection on Learning & Development (PDF)](https://github.com/hrushikreddy/hrushik-tadvai.github.io/blob/master/Artefacts/Reflections%20on%20Learning%20and%20Development%20Through%20the%20Module.pdf)
