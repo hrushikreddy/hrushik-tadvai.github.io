@@ -12,4 +12,12 @@ Even though my research was mainly focused on numbers, the awareness of qualitat
 
 For instance, when I worked with plant image datasets, I noticed that identical models might perform differently depending on light conditions, environmental circumstances, or geographical locations. Qualitative approaches, such as observational studies or group discussions with horticultural specialists, could shed light on these contextual factors. While I did not directly apply these methods in this project, I now see them as complementary tools that could broaden the scope of future research.
 
+## Artefacts & Reflections  
+
+**Peer-Reviewed Discussion — ACM Case Study on Medical Implants Risk**  
+A peer-reviewed discussion of the ACM case study on risks associated with medical implants, analysing the methodological, ethical, and safety implications raised.  
+
+[→ View the Peer-Reviewed Discussion (PDF)](https://github.com/hrushikreddy/hrushik-tadvai.github.io/blob/master/Artefacts/RMPP_Diccussion.pdf)
+
+
 [← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
