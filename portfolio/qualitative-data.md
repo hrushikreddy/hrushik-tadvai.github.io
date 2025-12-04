@@ -14,5 +14,14 @@ One of my greatest areas of growth was learning to translate complex statistical
 
 Going forward, I plan to enhance my presentations by incorporating storytelling techniques and concrete examples, which I expect will make my work more relatable and memorable for diverse audiences. This module has shown me that strong communication skills are as essential as technical expertise in research, and that the ability to convey complex ideas clearly can dramatically increase the reach and impact of my work.
 
+## Lab Work Repository
+
+You can find all my lab work for this module collected in the following repository:
+
+🔗 **[Lab Work Artefacts Repository](https://github.com/hrushikreddy/hrushik-tadvai.github.io/tree/master/Artefacts)**
+
+This folder includes my completed statistical exercises **8.4G, 6.6G, 9.1D, 9.2E, and 9.3B**, all provided in Excel format. These files demonstrate my applied quantitative skills, including descriptive and inferential statistics, data visualisation, and the construction of analytical graphs used throughout the course.
+
+
 
 [← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
