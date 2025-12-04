@@ -10,4 +10,12 @@ The module also reinforced the importance of ethical considerations in data coll
 
 Overall, the module has shaped my understanding of how to combine methodological rigour with ethical responsibility, demonstrating that thoughtful engagement with participants is essential to producing research that is both reliable and socially responsible.
 
+## Artefacts & Reflections  
+
+**Unit 5 – Reflection on the Inappropriate Use of Surveys and Their Wider Implications**  
+A reflective paper assessing the limitations and ethical concerns around improper survey use, and the broader methodological and societal implications of such practices.  
+
+[→ View the Unit 5 Reflection (PDF)](https://github.com/hrushikreddy/hrushik-tadvai.github.io/blob/master/Artefacts/Unit%205_%20Reflection%20on%20the%20Inappropriate%20Use%20of%20Surveys%20and%20Their%20Wider%20Implications.pdf)  
+
+
 [← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
