@@ -17,4 +17,18 @@ Qualitative observation focuses on natural behaviours and characteristics, often
 ## Overall Reflection
 This unit strengthened my understanding of when and why to use each method. I gained clarity on how qualitative approaches can complement quantitative analysis, especially in complex investigations. Moving forward, I will consider combining methods where appropriate to enrich the depth and reliability of my research.
 
+### Unit 4 Artefacts: Literature Review Feedback & Deep Learning Implementation
+
+As part of Unit 4, I explored early-stage research development through both literature review refinement and practical experimentation with deep learning tools.  
+These documents illustrate my progress in strengthening academic writing, responding to formative feedback, and applying advanced computational techniques in practice.
+
+- **Formative Literature Review Feedback Template**  
+  A structured review of my initial literature work, including supervisor feedback that guided improvements in clarity, academic grounding, and methodological alignment.  
+  [View Document on GitHub](https://github.com/hrushikreddy/hrushik-tadvai.github.io/blob/master/Artefacts/Unit%204_%20Hrushik%20Tadvil_RRMP%20formative%20Feedback%20Template%20(Literature%20Review)%20-%20Copy%20(2).pdf)
+
+- **Implementing Deep Learning Tools**  
+  A practical artefact demonstrating my early experimentation with deep learning methods and their relevance to my emerging research direction.  
+  [View Document on GitHub](https://github.com/hrushikreddy/hrushik-tadvai.github.io/blob/master/Artefacts/Unit%204_%20Implementing%20Deep%20Learning%20tools%20and.pdf)
+
+
 [← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
