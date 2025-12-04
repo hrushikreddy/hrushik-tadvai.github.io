@@ -9,6 +9,8 @@ When I began the MSc in Data Science at the University of Essex, I expected my t
 
 This module challenged me to consider not just what I do as a researcher, but why I do it and how my methods impact the credibility and applicability of my work. It has encouraged me to engage more thoughtfully with research design, data ethics, and the communication of findings, helping me see the broader context in which data science operates. In the following sections, I reflect on the key aspects of the module and how each has shaped both my academic practice and my understanding of professional responsibilities as a data scientist, from methodological rigour to ethical stewardship and effective communication.
 
+You can view all portfolio Artefacts in the following link: [Artefacts Folder](https://github.com/hrushikreddy/hrushik-tadvai.github.io/tree/master/Artefacts)
+
  Click a section below to explore each of the sub-topics taught:
 
 - [unit 1: Scientific Investigation & Ethics]({{ site.baseurl }}/portfolio/scientific-investigation)
