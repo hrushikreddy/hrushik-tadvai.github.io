@@ -8,4 +8,9 @@ The course provided an in-depth engagement with the concept of scientific invest
 
 Equally significant was the emphasis on the ethical dimensions of research. The module highlighted that ethics is not an optional consideration, but a guiding principle, especially in contexts involving human participants, sensitive data, or decision-making algorithms. Case studies exploring biased algorithms, data misuse, and the consequences of unethical practices underscored that even technically robust research can be fundamentally undermined if conducted without ethical awareness. This dual focus on scientific reasoning and ethical reflection has reshaped how I view my role as a researcher. I am not simply a technician applying methods, but a steward of knowledge and responsibility, accountable for the integrity, relevance, and impact of my work.
 
+This reflection explores global AI governance challenges and evaluates potential frameworks for ensuring responsible, ethical, and sustainable AI deployment in international contexts.
+
+[Reflection on Global AI Governance and Suitable Paths Forward](https://github.com/hrushikreddy/hrushik-tadvai.github.io/blob/master/Artefacts/Unit%201_%20Reflection%20on%20Global%20AI%20Governance%20and%20Suitable%20Paths%20Forward.pdf)
+
+
 [← Back to Overview]({{ site.baseurl }}/portfolio/portfolio-4)
