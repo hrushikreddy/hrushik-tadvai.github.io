@@ -3,53 +3,130 @@ title: "Professional Development Action Plan"
 layout: default
 ---
 
-# Professional Development Action Plan
+# **Professional Development Action Plan**
 
-This action plan translates the insights gathered from the Skills Matrix and SWOT Analysis into specific, measurable development activities.
-
----
-
-## Objective 1: Strengthen Advanced Statistical and Machine Learning Skills
-**Actions:**
-- Complete advanced statistics and machine learning modules  
-- Take one external course (Coursera/EdX/fast.ai)  
-- Apply methods directly in dissertation and client simulations  
-
-**Timeline:** Ongoing; major progress targeted within 6–12 months  
-**Success Indicators:** Improved performance in modelling tasks; confidence in explaining statistical results  
+This Action Plan outlines my key development objectives based on insights gained from my Skills Matrix, SWOT Analysis, and reflections throughout the module. It provides a structured overview of the skills I aim to improve, the actions I will take, the resources I require, and the timeframe for completion.
 
 ---
 
-## Objective 2: Enhance Communication and Leadership Capabilities
-**Actions:**
-- Participate in communication/leadership workshops  
-- Present findings to non-technical audiences  
-- Seek regular feedback from academic supervisors and stakeholders  
+## **1. Development Objective 1: Advanced Statistics & Quantitative Methods**
 
-**Timeline:** Throughout the academic year  
-**Success Indicators:** Clearer presentations, stronger documentation, positive mentor feedback  
+**Rationale:**  
+To strengthen my ability to conduct rigorous data-driven research, improve my analytical depth, and prepare for my final thesis.
+
+**Actions:**  
+- Enrol in an advanced statistics online course (e.g., Coursera, Udemy, or University resources).  
+- Apply learned concepts in upcoming academic projects.  
+- Review statistical outputs with tutor or mentor for feedback.  
+
+**Resources Required:**  
+- Access to statistical software (Excel, SPSS, Python libraries).  
+- Learning materials and online lectures.  
+
+**Success Criteria:**  
+- Demonstrated improvement in statistical interpretation and analysis.  
+- Successful application of techniques in thesis or coursework.  
+
+**Target Completion Date:**  
+*3–4 months*
 
 ---
 
-## Objective 3: Incorporate Ethical and Responsible Practice into All Work
-**Actions:**
-- Apply ethical frameworks in project planning and dissertation methodology  
-- Conduct ethical impact assessments where relevant  
-- Stay current with AI governance and data protection standards  
+## **2. Development Objective 2: Machine Learning & AI Techniques**
 
-**Timeline:** Immediate and ongoing  
-**Success Indicators:** Ethical considerations explicitly documented in reports and proposals  
+**Rationale:**  
+To enhance my technical capabilities and stay aligned with industry expectations in data science and emerging AI fields.
+
+**Actions:**  
+- Complete machine learning coursework and follow hands-on tutorials.  
+- Build small ML models and evaluate performance using real or sample datasets.  
+- Integrate ML techniques into dissertation planning.  
+
+**Resources Required:**  
+- Python (NumPy, Pandas, Scikit-Learn), Jupyter Notebooks.  
+- Online ML learning materials.  
+
+**Success Criteria:**  
+- Ability to train, validate, and critique ML models.  
+- Incorporation of ML approaches into academic or professional projects.  
+
+**Target Completion Date:**  
+*4–6 months*
 
 ---
 
-## Objective 4: Broaden Professional Network and Opportunities
-**Actions:**
-- Attend academic events and industry meetups  
-- Engage in peer discussions and knowledge-sharing groups  
-- Develop thought-leadership content (short articles, GitHub examples, small research outputs)  
+## **3. Development Objective 3: Ethical Data Practices & Responsible AI**
 
-**Timeline:** Next 12 months  
-**Success Indicators:** Increased collaboration, project visibility, and professional confidence  
+**Rationale:**  
+To ensure that my future research and professional practice incorporate strong ethical principles, transparency, and responsible data handling.
+
+**Actions:**  
+- Review key frameworks (ACM, IEEE, GDPR, Responsible AI guidelines).  
+- Evaluate the ethical implications of datasets used in projects.  
+- Document an ethical impact assessment in future work.  
+
+**Resources Required:**  
+- University ethics guidelines.  
+- Case studies and regulatory frameworks.  
+
+**Success Criteria:**  
+- Completed ethical assessments for coursework and thesis.  
+- Demonstrated ability to justify methodological decisions ethically.  
+
+**Target Completion Date:**  
+*Ongoing; reviewed each term*
+
+---
+
+## **4. Development Objective 4: Communication & Leadership Skills**
+
+**Rationale:**  
+To improve how I present technical ideas, lead collaborative work, and adapt communication for diverse stakeholders.
+
+**Actions:**  
+- Participate in workshops and practice presentations.  
+- Present analytical results to peers or non-technical audiences.  
+- Seek feedback from colleagues, tutors, and supervisors.  
+
+**Resources Required:**  
+- Presentation tools and workshop materials.  
+- Opportunities for peer review and group work.  
+
+**Success Criteria:**  
+- Clear, confident communication demonstrated in seminars or client meetings.  
+- Positive feedback from supervisors and peers.  
+
+**Target Completion Date:**  
+*Ongoing throughout programme*
+
+---
+
+## **5. Development Objective 5: Project & Time Management**
+
+**Rationale:**  
+To ensure research activities are planned effectively and completed within deadlines.
+
+**Actions:**  
+- Develop a project timeline for thesis work.  
+- Use tools such as Trello, Notion, or Gantt charts to manage tasks.  
+- Review progress weekly and adjust timelines where necessary.  
+
+**Resources Required:**  
+- Project management tools.  
+- Access to supervisor feedback.  
+
+**Success Criteria:**  
+- Timely submission of project deliverables.  
+- Evidence of structured and manageable workflow.  
+
+**Target Completion Date:**  
+*Immediate start – reviewed monthly*
+
+---
+
+## **Summary**
+
+This Action Plan supports both my academic journey and professional growth. By strengthening technical expertise, research ethics, and communication abilities, I aim to develop into a well-rounded, responsible data science professional prepared for advanced research and industry practice.
 
 ---
 
